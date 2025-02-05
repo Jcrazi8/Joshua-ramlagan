@@ -26,7 +26,7 @@ I enjoy working on personal projects that challenge my problem-solving skills, a
 
 ## 📈 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)](https://github.com/your-github-username)
+[![Jcrazi8](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)](https://github.com/your-github-username)
 
 ---
 
@@ -50,8 +50,7 @@ A project where I visualized some basic data using Python and Matplotlib.
 ## 🏆 Achievements
 
 - **School Coding Club:** Active member, participating in coding challenges
-- **Hackathons:** Participated in [Hackathon Name] (mention any events you've joined)
-- **Online Courses:** Completed courses on [Platform], including [Course Title] and [Course Title]
+
 
 ---
 
